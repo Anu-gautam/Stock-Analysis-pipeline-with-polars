@@ -1,0 +1,4 @@
+polars>=1.0.0
+yfinance>=0.2.40
+pandas>=2.0.0
+pyarrow>=14.0.0
